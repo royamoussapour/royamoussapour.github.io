@@ -19,4 +19,6 @@
   color: success
 
    
-
+- name: Google Analytics
+  percentage: 90
+  color: secondary

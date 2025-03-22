@@ -26,7 +26,19 @@ Before, I was on contract at <a href="https://www.bloomworks.com" target="_blank
 {% include about/skills.html title="Data Analysis" source=site.data.data-analysis %}
 </div>
 
+I love the work I do, but I also love life outside of work! 
 
+I'm an amateur potter, classical violinist turned fiddler, cookbook enthusiast, and owner of a rescue basset hound, Joon.
+
+{% capture carousel_images %}
+https://i.imgur.com/xWSq8V7.jpeg
+https://i.imgur.com/GxSEgxc.jpeg
+https://i.imgur.com/lF8gvcQ.jpeg
+https://i.imgur.com/67G9rqP.jpeg
+https://i.imgur.com/LDgUxIK.jpeg
+https://i.imgur.com/iwCAgb8.jpeg
+{% endcapture %}
+{% include elements/carousel.html %}
 
 <div class="row">
 {% include about/timeline.html %}
