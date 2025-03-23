@@ -44,7 +44,7 @@ https://i.imgur.com/67G9rqP.jpeg
 https://i.imgur.com/LDgUxIK.jpeg
 https://i.imgur.com/iwCAgb8.jpeg
 {% endcapture %}
-{% include elements/carousel.html height="50" %}
+{% include elements/carousel.html height="50" unit="%" %}
 <!--
 <div class="row">
 {% include about/timeline.html %}
