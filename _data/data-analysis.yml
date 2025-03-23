@@ -6,7 +6,7 @@
   percentage: 60
   color: dark
 
- - name: Python / Jupyter Notebooks
+- name: Python / Jupyter Notebooks
   percentage: 50
   color: warning
 
