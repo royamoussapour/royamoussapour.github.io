@@ -19,6 +19,6 @@
   color: info
 
 - name: Python / Jupyter Notebooks
-  percentage: 50
-  color: danger
+  percentage: 60
+  color: info
 
