@@ -10,11 +10,11 @@
   percentage: 50
   color: warning
 
-  - name: Tableau
+- name: Tableau
   percentage: 60
   color: danger
 
-  - name: Qualtrics / SurveyMonkey / Google Forms
+- name: Qualtrics / SurveyMonkey / Google Forms
   percentage: 90
   color: success
 
