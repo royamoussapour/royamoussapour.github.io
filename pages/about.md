@@ -41,7 +41,9 @@ https://i.imgur.com/LDgUxIK.jpeg
 https://i.imgur.com/iwCAgb8.jpeg
 {% endcapture %}
 {% include elements/carousel.html %}
-
+<!--
 <div class="row">
 {% include about/timeline.html %}
 </div>
+
+-->
