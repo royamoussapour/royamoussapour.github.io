@@ -12,7 +12,7 @@
 
 - name: Surveys
   percentage: 80
-  color: secondary
+  color: dark
 
 - name: Task analysis
   percentage: 70
@@ -20,5 +20,5 @@
 
 - name: A/B testing
   percentage: 70
-  color: danger
+  color: warning
 
