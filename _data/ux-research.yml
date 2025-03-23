@@ -1,22 +1,22 @@
 - name: Interviews and contextual inquiry
   percentage: 90
-  color: danger
-
-- name: Focus groups and co-design workshops
-  percentage: 80
   color: success
 
 - name: Usability testing
   percentage: 90
+  color: success
+
+- name: Focus groups and co-design workshops
+  percentage: 80
+  color: dark
+
+- name: Surveys
+  percentage: 80
   color: secondary
 
 - name: Task analysis
   percentage: 70
   color: warning
-
-- name: Surveys
-  percentage: 80
-  color: secondary
 
 - name: A/B testing
   percentage: 70

@@ -1,24 +1,24 @@
-- name: R / RStudio / Shiny dashboards
-  percentage: 80
-  color: light
-
-- name: SQL
-  percentage: 60
-  color: dark
-
-- name: Python / Jupyter Notebooks
-  percentage: 50
-  color: warning
-
-- name: Tableau
-  percentage: 60
-  color: danger
-
 - name: Qualtrics / SurveyMonkey / Google Forms
   percentage: 90
   color: success
 
+- name: R / RStudio / Shiny dashboards
+  percentage: 80
+  color: dark
    
 - name: Google Analytics
-  percentage: 90
-  color: secondary
+  percentage: 70
+  color: warning
+
+- name: SQL
+  percentage: 60
+  color: light
+
+- name: Tableau
+  percentage: 60
+  color: light
+
+- name: Python / Jupyter Notebooks
+  percentage: 50
+  color: danger
+
