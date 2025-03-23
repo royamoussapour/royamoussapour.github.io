@@ -30,6 +30,7 @@ If you'd like a copy of my current resume, you can access it <a href="https://dr
 </div>
 
 
+<!--
 ## **Interests**
 
 I love the work I do, but I also love life outside of work! 
@@ -37,7 +38,6 @@ I love the work I do, but I also love life outside of work!
 I'm an amateur potter, classical violinist turned fiddler, cookbook enthusiast, and owner of a rescue basset hound, Joon.
 
 
-<div class="300-px-wide">
 {% capture carousel_images %}
 https://i.imgur.com/xWSq8V7.jpeg
 https://i.imgur.com/67G9rqP.jpeg
@@ -45,7 +45,7 @@ https://i.imgur.com/GxSEgxc.jpeg
 https://i.imgur.com/lF8gvcQ.jpeg
 https://i.imgur.com/iwCAgb8.jpeg
 {% endcapture %}
-</div>
+-->
 
 <!--
 <div class="row">
