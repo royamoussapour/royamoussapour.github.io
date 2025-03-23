@@ -37,7 +37,7 @@ I love the work I do, but I also love life outside of work!
 I'm an amateur potter, classical violinist turned fiddler, cookbook enthusiast, and owner of a rescue basset hound, Joon.
 
 {% capture carousel_images %}
-<img src="https://i.imgur.com/xWSq8V7.jpeg" alt="handmade pottery mugs" style="max-width: 40%; height: auto;" />
+https://i.imgur.com/xWSq8V7.jpeg
 https://i.imgur.com/xWSq8V7.jpeg
 https://i.imgur.com/67G9rqP.jpeg
 https://i.imgur.com/GxSEgxc.jpeg
