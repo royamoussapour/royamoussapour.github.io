@@ -18,6 +18,8 @@ I’m currently at the <a href="https://www.uspto.gov/">United States Patent and
 
 Before, I was on contract at <a href="https://www.bloomworks.com" target="_blank">Bloom Works</a>, a public interest design firm, and at <a href="http://lumenlearning.com/">Lumen Learning</a>, an educational technology company. In between, I worked in strategy consulting at <a href="https://www.kaiserassociates.com" target="_blank">Kaiser Associates</a>.
 
+If you'd like a copy of my current resume, you can access it <a href="https://drive.google.com/file/d/1rn7ejIXiw-b7TTsC161X2po1ljSlw5mT/view?usp=sharing" target="_blank">here</a>.
+
 
 ## **Skills and Interests**
 
