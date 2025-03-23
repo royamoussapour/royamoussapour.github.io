@@ -12,11 +12,11 @@
 
 - name: SQL
   percentage: 60
-  color: light
+  color: info
 
 - name: Tableau
   percentage: 60
-  color: light
+  color: info
 
 - name: Python / Jupyter Notebooks
   percentage: 50
