@@ -40,4 +40,4 @@ This was a great exercise in scaffolding research learnings towards short- and l
 <br>
 
 
-<b>Note:</b> Very little of my work can be shared publicly, so please <a href="mailto:roya.moussapour@gmail.com">email me directly</a> if you'd like examples of research artifacts (such as scripts, slides, etc.).
+<p style="font-size: 12px;"><b>Note:</b> Very little of my work can be shared publicly, so please <a href="mailto:roya.moussapour@gmail.com">email me directly</a> if you'd like examples of research artifacts (such as scripts, slides, etc.).</p>
