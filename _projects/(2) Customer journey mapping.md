@@ -1,12 +1,11 @@
 ---
-name: State victim services
-tools: [In-depth interviews, Design workshops, In-person research, Ethnography]
-image: 
-description: Improving state services for survivors of violent crimes.
+name: Trademarks customer journey mapping
+tools: [In-depth interviews, Surveys, Journey mapping]
+image: https://i.imgur.com/TpTWLPd.png
+description: Learning about Trademarks customers and identifying new areas for long-term research.
 ---
 
-
-# State victim services
+# Trademarks customer journey mapping
 
 Placeholder text
 
