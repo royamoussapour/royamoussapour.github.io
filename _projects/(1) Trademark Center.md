@@ -32,7 +32,7 @@ Because of shifting leadership priorities, we designed while our engineering tea
 
 We ultimately tested a prototype of the sharing feature with four paralegals and five trademark attorneys, identifying time-sensitive changes to the design that were implemented before deployment.
 
-This was a great exercise in scaffolding research learnings towards short- and long-term implementation and establishing the feasibility of quick turnaround analysis and presentation (<3 days turnaround for critical updates).
+This was a great exercise in scaffolding research learnings towards short- and long-term implementation and establishing the feasibility of quick turnaround analysis and presentation (less than 3 days turnaround for critical updates).
 
 
 <br>
