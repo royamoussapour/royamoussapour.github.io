@@ -9,13 +9,13 @@ description: Testing new features for the USPTO's new trademark filing platform,
 
 I lead research for Trademark Center, the USPTO's new trademark filing platform.
 
-Trademark Center went live in January 2025, but we've continued to develop features as we were on continuously improving the platform.
+Trademark Center went live in January 2025, but we've continued to develop features as we focus on continuously improving the platform.
 
 ### The challenge 
 
 Trademark Center was released with security-focused features that have challenged users who are used to flexible sharing of application drafts. My ongoing analysis of survey data from customers indicated significant frustration with our sharing features.
 
-With pressure from leadership, our team developed a draft sharing method we wanted to test with an ultimate goal of balancing flexibility of sharing drafts with the security-focused features we needed.
+With pressure from leadership, our team developed a draft sharing method we wanted to test with customers.
 
 <i>In a resource- and time-constrained environment, how might we ensure that critical feature enhancements are discoverable and meet customer expectations?</i>
 
@@ -30,7 +30,7 @@ Because of shifting leadership priorities, we designed while our engineering tea
 
 ### What we learned 
 
-We ultimately tested a prototype of the sharing feature with four paralegals and five trademark attorneys, identifying time-sensitive changes to the design that were implemented before deployment.
+We ultimately tested a prototype of the sharing feature with nine customers and identified time-sensitive changes to the design that were implemented before deployment.
 
 This was a great exercise in scaffolding research learnings towards short- and long-term implementation and establishing the feasibility of quick turnaround analysis and presentation (less than 3 days turnaround for critical updates).
 
