@@ -9,6 +9,18 @@ weight: 3
 
 Hi! I'm **{{ site.author.name }}**.<br>
 
+   <div class="container">
+	<img src="https://i.imgur.com/wiU48oa.jpeg" alt="Roya and Joon" style="max-width: 40%; height: auto;" />
+      <p>I’m an experienced researcher based in Baltimore, MD working at the intersection of traditional UX research, customer experience, and quantitative data analysis. I’m currently at the <a href="https://www.uspto.gov/">U.S. Patent and Trademark Office</a> leading research on our new trademark filing platform, Trademark Center.
+
+Before, I was on contract at <a href="https://bloomworks.digital/" target="_blank">Bloom Works</a>, a public interest design firm, and at <a href="http://lumenlearning.com/">Lumen Learning</a>, an educational technology company. In between, I worked in strategy consulting at <a href="https://www.kaiserassociates.com" target="_blank">Kaiser Associates</a>.
+
+
+I received most of my research training at MIT while pursuing my master’s degree and working at the <a href="https://tsl.mit.edu/">MIT Teaching Systems Lab</a> as a researcher.
+
+If you'd like a copy of my current resume, you can access it <a href="https://drive.google.com/file/d/1rn7ejIXiw-b7TTsC161X2po1ljSlw5mT/view?usp=sharing" target="_blank">here</a>.</p>
+    </div>
+
 
 <img src="https://i.imgur.com/wiU48oa.jpeg" alt="Roya and Joon" style="max-width: 40%; height: auto;" />
 
