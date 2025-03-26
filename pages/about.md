@@ -10,7 +10,7 @@ weight: 3
 Hi! I'm **{{ site.author.name }}**.<br>
 
 
-<img src="https://i.imgur.com/wiU48oa.jpeg" alt="Roya and Joon" style="max-width: 40%; height: auto; float: right;" />
+<img src="https://i.imgur.com/wiU48oa.jpeg" alt="Roya and Joon" style="max-width: 30%; height: auto; float: right;" />
 
 I’m an experienced researcher based in Baltimore, MD working at the intersection of traditional UX research, customer experience, and quantitative data analysis. I’m currently at the <a href="https://www.uspto.gov/">U.S. Patent and Trademark Office</a> leading research on our new trademark filing platform, Trademark Center.
 
