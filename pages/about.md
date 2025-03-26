@@ -21,6 +21,9 @@ I received most of my research training at MIT while pursuing my master’s degr
 
 If you'd like a copy of my current resume, you can access it <a href="https://drive.google.com/file/d/1rn7ejIXiw-b7TTsC161X2po1ljSlw5mT/view?usp=sharing" target="_blank">here</a>.
 
+<br>
+<br>
+
 
 ## **Skills**
 
