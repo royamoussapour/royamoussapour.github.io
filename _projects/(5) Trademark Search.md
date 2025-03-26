@@ -24,6 +24,9 @@ I worked on a multi-phase data analysis project for Trademark Search, identifyin
  
 
 Over the months that I supported Trademark Search, I helped identify many areas forward based on customer pain points. Unfortunately, the team was told they needed to enter a maintenance phase on the product while supporting other more critical products; this meant that over time, I had to prioritize feature improvements very deliberately to ensure the team had bandwidth to implement meaningful product changes.
+
+For me, this project was about finding small wins for customers based on bugs and issues reported to the team. 
+
 <br>
 
 <br>
