@@ -1,5 +1,5 @@
 ---
-name: Tsting new features for the USPTO's new trademark filing platform, Trademark Center.
+name: Testing new features for the USPTO's new trademark filing platform, Trademark Center.
 tools: [Surveys, Thematic coding, Usability testing]
 image: https://i.imgur.com/SH49j6r.png
 #description: Testing new features for the USPTO's new trademark filing platform, Trademark Center.
