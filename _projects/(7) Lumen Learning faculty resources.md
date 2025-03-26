@@ -1,6 +1,6 @@
 ---
 name: Lumen Learning faculty resources
-tools: [In-depth interviews, design workshops]
+tools: [In-depth interviews, Design workshops]
 image: https://i.imgur.com/NfEgqxg.png
 description: Improving faculty resources for an educational technology company.
 ---
@@ -18,11 +18,11 @@ As we designed a new courseware platform, one of the questions I kept coming bac
 
 I began research by engaging faculty in design workshops centering on brainstorming challenges faculty face in using new courseware and curricula. We then ideated on possible solutions collaboratively. 
 
-![preview]https://i.imgur.com/NfEgqxg.png
+![preview](https://i.imgur.com/NfEgqxg.png)
 
 In a second round of research, we brought back sample resources back to the same faculty members to compare and contrast versions and get their feedback. 
 
-![preview]https://i.imgur.com/00KaeW0.png
+![preview](https://i.imgur.com/00KaeW0.png)
 
 ### What we learned
 
