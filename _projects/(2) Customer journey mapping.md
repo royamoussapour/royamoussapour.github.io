@@ -1,8 +1,8 @@
 ---
-name: Trademarks customer journey mapping
+name: Mapping out the trademark filing journey
 tools: [In-depth interviews, Surveys, Journey mapping, Research artifacts]
 image: https://i.imgur.com/Qu0CB4W.png
-description: Learning about Trademarks customers and identifying new areas for long-term research.
+#description: Learning about Trademarks customers and identifying new areas for long-term research.
 ---
 
 # Trademarks customer journey mapping

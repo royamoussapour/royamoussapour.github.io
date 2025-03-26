@@ -1,8 +1,8 @@
 ---
-name: State victim services
+name: Improving state services for survivors of violent crimes
 tools: [In-depth interviews, Design workshops, In-person research, Ethnography, Research artifacts]
 image: 
-description: Improving state services for survivors of violent crimes.
+description: 
 ---
 
 

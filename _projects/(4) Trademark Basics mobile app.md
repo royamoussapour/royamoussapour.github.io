@@ -1,8 +1,8 @@
 ---
-name: Trademark Basics mobile app
+name: Identifying the right time to sunset an app
 tools: [Survey analysis, Quantitative data analysis, Thematic coding]
 image: https://i.imgur.com/6D7uhYt.png
-description: Identifying the right time to sunset an app.
+description: 
 ---
 
 # Trademark Basics mobile app
