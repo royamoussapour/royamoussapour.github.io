@@ -1,7 +1,6 @@
 ---
 name: Trademark Search
-tools: [Survey analysis and monitoring]
-image: https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/material_design_awards_inline_002.jpg
-description: Fabulous is a science-based app, incubated in Duke's Behavioral Economics Lab, that will help you build healthy rituals into your life, just like an elite athlete.
-external_url: https://thefabulous.co/
+tools: [Survey analysis and monitoring, Quantitative data analysis]
+image: https://i.imgur.com/mMAE46r.png
+description: Balancing feature prioritization with product maintenance needs.
 ---
