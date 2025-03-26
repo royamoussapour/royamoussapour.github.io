@@ -1,7 +1,7 @@
 ---
 name: Trademarks customer journey mapping
 tools: [In-depth interviews, Surveys, Journey mapping, Research artifacts]
-image: https://i.imgur.com/TpTWLPd.png
+image: https://i.imgur.com/Qu0CB4W.png
 description: Learning about Trademarks customers and identifying new areas for long-term research.
 ---
 
@@ -25,7 +25,7 @@ We interviewed 14 internal stakeholders and 10 external customers as our first r
 
 ![preview](https://i.imgur.com/TpTWLPd.png)
 
-We then developed a high-level experience map that identified pain points along the Trademark filing journey.
+We then developed a high-level experience map that identified pain points along the Trademark filing journey (this is intentionally blurred for privacy).
 
 
 ![preview](https://i.imgur.com/Qu0CB4W.png)

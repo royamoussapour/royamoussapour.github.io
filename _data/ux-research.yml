@@ -6,6 +6,10 @@
   percentage: 90
   color: success
 
+- name: Journey mapping
+  percentage: 90
+  color: success
+
 - name: Focus groups and co-design workshops
   percentage: 80
   color: dark
@@ -13,10 +17,6 @@
 - name: Surveys
   percentage: 80
   color: dark
-
-- name: Task analysis
-  percentage: 70
-  color: warning
 
 - name: A/B testing
   percentage: 70
