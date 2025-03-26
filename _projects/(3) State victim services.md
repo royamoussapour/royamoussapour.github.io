@@ -1,14 +1,14 @@
 ---
 name: Improving state services for survivors of violent crimes
 tools: [In-depth interviews, Design workshops, In-person research, Ethnography, Research artifacts]
-image: 
+image: https://i.imgur.com/VHIfGdD.jpeg
 description: 
 ---
 
 
 # State victim services
 
-Survivors of violent crimes are often eligible for state-sponsored care, but many states s truggle to connect survivors to services.
+Survivors of violent crimes are often eligible for state-sponsored care, but many states struggle to connect survivors to services.
 
 ### The challenge
 
@@ -24,9 +24,7 @@ When diving into research, we quickly realized that because of how sensitive the
 	<li>We worked through networks supporting survivors to recruit people indirectly and met people where they were already accessing services.</li>
 </ol>
 
-<!-- need to update link with images of map
-![preview](https://i.imgur.com/TpTWLPd.png)
--->
+![preview](https://i.imgur.com/VHIfGdD.jpeg)
 
 ### What we learned
 

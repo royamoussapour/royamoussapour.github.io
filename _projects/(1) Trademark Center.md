@@ -30,9 +30,9 @@ Because of shifting leadership priorities, we designed while our engineering tea
 
 ### What we learned 
 
-We ultimately tested a prototype of the sharing feature with nine customers and identified time-sensitive changes to the design that were implemented before deployment.
+We ultimately tested a prototype of the sharing feature with nine customers and identified time-sensitive changes to the design that were implemented before deployment. We were able to turn around our analysis and a presentation of recommendations in under a week.
 
-This was a great exercise in scaffolding research learnings towards short- and long-term implementation and establishing the feasibility of quick turnaround analysis and presentation (less than 3 days turnaround for critical updates).
+This was a great exercise in scaffolding research learnings towards short- and long-term implementation.
 
 
 <br>

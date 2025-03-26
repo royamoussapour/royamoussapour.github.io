@@ -37,6 +37,7 @@ We learned that scams and fraud are rampant and Trademarks customers are being i
 
 This has helped us prioritize research for FY25 focusing on the prevalence of scams and fraud as we consider how to better communicate about the issue proactively with customers. 
 
+![preview](https://i.imgur.com/wuXM88I.png)
 
 <br>
 
