@@ -1,5 +1,5 @@
 ---
-name: Lumen Learning faculty resources
+name: Improving educational courseware faculty resources
 tools: [In-depth interviews, Design workshops]
 image: https://i.imgur.com/NfEgqxg.png
 description: Improving faculty resources for an educational technology company.

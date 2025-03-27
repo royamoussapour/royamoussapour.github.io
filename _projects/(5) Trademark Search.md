@@ -1,8 +1,8 @@
 ---
-name: Trademark Search
+name: Balancing feature prioritization with product maintenance
 tools: [Survey analysis and monitoring, Thematic coding, Quantitative data analysis]
 image: https://i.imgur.com/mMAE46r.png
-description: Balancing feature prioritization with product maintenance needs.
+#description: Balancing feature prioritization with product maintenance needs.
 ---
 
 # Trademark Search

@@ -19,6 +19,8 @@ With shifts in software development priorities, our team deployed a survey to tr
 
 I analyzed the survey data by using both descriptive statistics for general quantitative summaries of the data and by thematically coding open-ended survey questions.
 
+![preview](https://i.imgur.com/7C32v4m.png)
+
 ### What we learned
 
 Customer expectations for a mobile app <b>did not</b> line up with developer intentions. Customers expected an app that would allow them to engage directly with trademarks via searching and filing, but the internal team intended to build a standalone library of trademarks resources. 
