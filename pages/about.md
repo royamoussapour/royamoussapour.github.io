@@ -19,7 +19,7 @@ Before, I was on contract at <a href="https://bloomworks.digital/" target="_blan
 
 I received most of my research training at MIT during my master’s degree and working at the <a href="https://tsl.mit.edu/">MIT Teaching Systems Lab</a> as a researcher.
 
-If you'd like a copy of my current resume, you can access it <a href="https://drive.google.com/file/d/1rn7ejIXiw-b7TTsC161X2po1ljSlw5mT/view?usp=sharing" target="_blank">here</a>.
+If you'd like a copy of my current resume, you can access it <a href="https://drive.google.com/file/d/1LpGF34IXOKOSx46y27DMLdmBtDZ3pnOD/view?usp=sharing" target="_blank">here</a>.
 
 <br>
 <br>
