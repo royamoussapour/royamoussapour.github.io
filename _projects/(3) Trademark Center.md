@@ -1,39 +1,30 @@
 ---
-name: Testing new features for a trademark filing platform
+name: Streamlining collaboration features in Trademark Center
 tools: [Surveys, Thematic coding, Usability testing]
 image: https://i.imgur.com/SH49j6r.png
 #description: Testing new features for the USPTO's new trademark filing platform, Trademark Center.
 ---
 
-# Trademark Center
+### Goal
+Contribute to the modernization of the trademark filing process by identifying and resolving collaboration issues within the new Trademark Center platform. 
 
-I lead research for Trademark Center, the USPTO's new trademark filing platform.
 
-Trademark Center went live in January 2025, but we've continued to develop features as we focus on continuously improving the platform.
-
-### The challenge 
-
-Trademark Center was released with security-focused features that have challenged users who are used to flexible sharing of application drafts. My ongoing analysis of survey data from customers indicated significant frustration with our sharing features.
-
-With pressure from leadership, our team developed a draft sharing method we wanted to test with customers.
-
-<i>In a resource- and time-constrained environment, how might we ensure that critical feature enhancements are discoverable and meet customer expectations?</i>
-
-### What we did
-
-In a 4-week research cycle, I worked together with our UX designer to refine a design for sharing application drafts via link with associated lawyers or paralegals on Trademark Center. 
-
-Because of shifting leadership priorities, we designed while our engineering team developed, and we knew we'd have limited time to deliver research insights prior to deployment.
+### Process
+Led targeted research to investigate survey feedback regarding poor collaborative tools within Trademark Center. I conducted usability testing and stakeholder interviews to understand collaboration workflows between paralegals, attorneys, and business owners.
 
 ![preview](https://i.imgur.com/SH49j6r.png)
 
+### Impact
+Designed and validated a new draft sharing feature that allowed for collaboration while respecting legal and regulatory requirements. 
 
-### What we learned 
 
-We ultimately tested a prototype of the sharing feature with nine customers and identified time-sensitive changes to the design that were implemented before deployment. We were able to turn around our analysis and a presentation of recommendations in under a week.
 
-This was a great exercise in scaffolding research learnings towards short- and long-term implementation.
+### Key Insights 
+* Attorneys and paralegals often collaborate on drafts before submission rather than preparing trademark applications in one go
+* Without a well-designed feature designed for collaboration, users were unable to access shared drafts and spent significant time troubleshooting
 
+### Deliverables
+Comprehensive research report on collaboration friction, including targeted improvements to the UI and collaborative draft-sharing flows. 
 
 <br>
 

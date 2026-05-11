@@ -13,7 +13,7 @@ Define Lumen Learning’s strategy for faculty-focused courseware features and s
 ### Process
  I led a research effort using co-design workshops to identify existing pain points, ideate on solutions to those, and then test out sample faculty resources with faculty. 
 
- ![preview](https://i.imgur.com/NfEgqxg.png)
+![preview](https://i.imgur.com/NfEgqxg.png)
 
 ### Impact
 Influenced an organizational shift in resource strategy by categoorizing faculty needs into three distinct areas: implementation resources, teaching resources, and professional learning resources. This allowed us to define clear ownership of resources across internal stakeholder teams. 
