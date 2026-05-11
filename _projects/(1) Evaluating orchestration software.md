@@ -25,7 +25,7 @@ Based on my research, leadership decided to postpone a June 2026 deadline, shift
 <ul>
   <li>The “Bring Your Own Cloud” architecture model shifted maintenance back to internal teams, negating the expected ROI of a SaaS orchestration solution </li>
   <li>There were significant security and feature gaps between Capital One’s legacy system and Tool X
-Engineers had significant concerns about the maturity of Tool X and their ability to support Capital One at the enterprise level /li>
+Engineers had significant concerns about the maturity of Tool X and their ability to support Capital One at the enterprise level </li>
 </ul>
 
 #### Deliverables
