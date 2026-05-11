@@ -19,10 +19,10 @@ I’m currently located in Baltimore, MD, but am relocating to Gloucestershire, 
 
 I previously worked at the [U.S. Patent and Trademark Office](https://www.uspto.gov/) leading research on their new trademark filing platform. Before that, I was a contract researcher at [Bloom Works](https://bloomworks.digital/), a public interest tech company, and Director of Research at [Lumen Learning](https://lumenlearning.com/), an educational technology company. In between, I worked in strategy consulting at [Kaiser Associates](https://www.kaiserassociates.com/).
 
-I received most of my research training at MIT during my master’s degree while working at the [MIT Teaching Systems Lab](https://tsl.mit.edu/) as a researcher.
+I received my initial research training at MIT during my master’s degree while working at the [MIT Teaching Systems Lab](https://tsl.mit.edu/) as a researcher.
 
 <!-- TODO: update this resume link to the current UK resume before publishing -->
-If you’d like a copy of my current UK resume, you can access it [here](https://drive.google.com/file/d/1kFYYgI1YaeOl6DFdPaLbuyJ3QpzyCsuM/view?usp=sharing).
+If you’d like a copy of my current UK CV, you can access it [here](https://drive.google.com/file/d/1kFYYgI1YaeOl6DFdPaLbuyJ3QpzyCsuM/view?usp=sharing).
 
 
 <!--

@@ -2,7 +2,7 @@
 name: Evaluating enterprise readiness of orchestration software
 tools: [In-depth interviews]
 image: https://logos-world.net/wp-content/uploads/2021/04/Capital-One-Logo-700x394.png
-#description: Learning about Trademarks customers and identifying new areas for long-term research.
+#description: Evaluating orchestration tools as replacements for legacy software.
 ---
 
 
@@ -19,7 +19,7 @@ I conducted in-depth 1-hour interviews with platform engineers across infrastruc
 -->
 
 #### Impact
-Based on my research, leadership decided to postpone a June 2026 deadline, shifting strategy to re-evaluate Tool X against competitor platforms and preventing a premature deployment that would have destabilized internal infrastructure.
+Based on my research, leadership decided to postpone a June 2026 deadline, shifting strategy to re-evaluate Tool X against competitor platforms and preventing a premature deployment that would have destabilised internal infrastructure.
 
 #### Key Insights
 <ul>

@@ -2,7 +2,7 @@
 name: Identifying manual developer processes from pull request to deployment
 tools: [In-depth interviews, Journey mapping workshops, Contextual inquiry]
 image: https://logos-world.net/wp-content/uploads/2021/04/Capital-One-Logo-700x394.png
-description: 
+#description: Mapping out the developer journey from PR to deploy
 ---
 
 
@@ -16,7 +16,7 @@ Capital One needed to create a comprehensive mapping of the current-state develo
 -->
 
 #### Impact
-The journey map we created was adopted by leadership as a strategic artifact for 2026 roadmap planning. 
+The journey map we created was adopted by leadership as a strategic artefact for 2026 roadmap planning. 
 
 #### Key Insights
 <ul>
@@ -33,4 +33,4 @@ Deliverables: A research report and end-to-end journey map highlighting areas of
 <br>
 
 
-<p style="font-size: 12px;"><b>Note:</b> Very little of my work can be shared publicly, so please <a href="mailto:roya.moussapour@gmail.com">email me directly</a> if you'd like examples of research artifacts (such as scripts, slides, etc.).</p>
+<p style="font-size: 12px;"><b>Note:</b> Very little of my work can be shared publicly, so please <a href="mailto:roya.moussapour@gmail.com">email me directly</a> if you'd like examples of research artefacts (such as scripts, slides, etc.).</p>

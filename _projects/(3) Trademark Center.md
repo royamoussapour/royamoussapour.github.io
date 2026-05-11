@@ -6,7 +6,7 @@ image: https://i.imgur.com/SH49j6r.png
 ---
 
 #### Goal
-Contribute to the modernization of the trademark filing process by identifying and resolving collaboration issues within the new Trademark Center platform. 
+Contribute to the modernisation of the trademark filing process by identifying and resolving collaboration issues within the new Trademark Center platform. 
 
 
 #### Process
@@ -21,7 +21,7 @@ Designed and validated a new draft sharing feature that allowed for collaboratio
 #### Key Insights 
 <ul>
   <li>Attorneys and paralegals often collaborate on drafts before submission rather than preparing trademark applications in one go</li>
-  <li>Without a well-designed feature designed for collaboration, users were unable to access shared drafts and spent significant time troubleshooting</li>
+  <li>Without a feature well-designed for collaboration, users were unable to access shared drafts and spent significant time troubleshooting</li>
 </ul>
 
 
@@ -33,4 +33,4 @@ Comprehensive research report on collaboration friction, including targeted impr
 <br>
 
 
-<p style="font-size: 12px;"><b>Note:</b> Very little of my work can be shared publicly, so please <a href="mailto:roya.moussapour@gmail.com">email me directly</a> if you'd like examples of research artifacts (such as scripts, slides, etc.).</p>
+<p style="font-size: 12px;"><b>Note:</b> Very little of my work can be shared publicly, so please <a href="mailto:roya.moussapour@gmail.com">email me directly</a> if you'd like examples of research artefacts (such as scripts, slides, etc.).</p>

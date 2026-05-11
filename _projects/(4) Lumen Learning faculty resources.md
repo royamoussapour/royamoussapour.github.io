@@ -16,11 +16,11 @@ Define Lumen Learning’s strategy for faculty-focused courseware features and s
 ![preview](https://i.imgur.com/NfEgqxg.png)
 
 #### Impact
-Influenced an organizational shift in resource strategy by categoorizing faculty needs into three distinct areas: implementation resources, teaching resources, and professional learning resources. This allowed us to define clear ownership of resources across internal stakeholder teams. 
+Influenced an organisational shift in resource strategy by categorizing faculty needs into three distinct areas: implementation resources, teaching resources, and professional learning resources. This allowed us to define clear ownership of resources across internal stakeholder teams. 
 
 #### Key Insights
 <ul>
-  <li>Faculty experienced a challenging learning curve that coincided with the start of classes, making the time investment for new technology a significant point of friction.</li>
+  <li>Faculty experienced a challenging learning curve that coincided with the start of classes, making the time investment for new technology a significant point of friction</li>
   <li>Support for faculty needed to be timely and actionable</li>
 </ul>
 
