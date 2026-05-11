@@ -1,36 +1,28 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
-weight: 3
+weight: 2
 ---
 
-# **About Me**
+# About Me
 
-Hi! I'm **{{ site.author.name }}**.<br>
+Hi! I'm **Roya Moussapour**.
 
-
-<img src="https://i.imgur.com/uw07UaP.jpeg" alt="Roya in Ireland" style="max-width: 27%; height: auto; float: right;" />
-
-I’m an experienced researcher based in Baltimore, MD working at the intersection of traditional UX research, quantitative data analysis, and customer experience. I’m currently at the <a href="https://www.uspto.gov/">U.S. Patent and Trademark Office</a> leading research on our new trademark filing platform, Trademark Center.
-
-Before, I was on contract at <a href="https://bloomworks.digital/" target="_blank">Bloom Works</a>, a public interest design firm, and Director of Research at <a href="http://lumenlearning.com/">Lumen Learning</a>, an educational technology company. In between, I worked in strategy consulting at <a href="https://www.kaiserassociates.com" target="_blank">Kaiser Associates</a>.
-
-
-I received most of my research training at MIT during my master’s degree and working at the <a href="https://tsl.mit.edu/">MIT Teaching Systems Lab</a> as a researcher.
-
-If you'd like a copy of my current resume, you can access it <a href="https://drive.google.com/file/d/1LpGF34IXOKOSx46y27DMLdmBtDZ3pnOD/view?usp=sharing" target="_blank">here</a>.
-
-<br>
-<br>
-
-
-## **Skills**
-
-<div class="row">
-{% include about/skills.html title="UX Research" source=site.data.ux-research %}
-{% include about/skills.html title="Data Analysis" source=site.data.data-analysis %}
+<div style="text-align: center; margin: 24px 0;">
+  <img src="/assets/images/headshot.JPG" alt="Roya Moussapour" style="width: 220px; height: 220px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;" />
 </div>
+
+I’m an experienced UX researcher and strategist currently working at [Capital One](https://www.capitalone.com/) as a Lead UX Researcher in Developer Experience. My current work focuses on navigating complex technical systems to build intuitive workflows and products for software engineers.
+
+I’m currently located in Baltimore, MD, but am relocating to Gloucestershire, England, in July 2026. I have full UK work authorisation and am open to full-time roles in the UK as well as contract (1099) roles in the US.
+
+I previously worked at the [U.S. Patent and Trademark Office](https://www.uspto.gov/) leading research on their new trademark filing platform. Before that, I was on contract at [Bloom Works](https://bloomworks.digital/), a public interest tech company, and Director of Research at [Lumen Learning](https://lumenlearning.com/), an educational technology company. In between, I worked in strategy consulting at [Kaiser Associates](https://www.kaiserassociates.com/).
+
+I received most of my research training at MIT during my master’s degree while working at the [MIT Teaching Systems Lab](https://tsl.mit.edu/) as a researcher.
+
+<!-- TODO: update this resume link to the current UK resume before publishing -->
+If you’d like a copy of my current UK resume, you can access it [here](https://drive.google.com/file/d/1LpGF34IXOKOSx46y27DMLdmBtDZ3pnOD/view?usp=sharing).
 
 
 <!--
