@@ -1,11 +1,10 @@
 ---
 name: Identifying manual developer processes from pull request to deployment
 tools: [In-depth interviews, Journey mapping workshops, Contextual inquiry]
-image: https://i.imgur.com/VHIfGdD.jpeg
+image: https://logos-world.net/wp-content/uploads/2021/04/Capital-One-Logo-700x394.png
 description: 
 ---
 
-<!-- NEED TO ADD PHOTOS FOR THIS-->
 
 #### Goal
 Capital One needed to create a comprehensive mapping of the current-state developer experience from pull request to deployment to identify manual bottlenecks preventing continuous deployment. 

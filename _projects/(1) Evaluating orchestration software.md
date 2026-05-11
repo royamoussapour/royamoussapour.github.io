@@ -1,7 +1,7 @@
 ---
 name: Evaluating enterprise readiness of orchestration software
 tools: [In-depth interviews]
-image: https://i.imgur.com/Qu0CB4W.png
+image: https://logos-world.net/wp-content/uploads/2021/04/Capital-One-Logo-700x394.png
 #description: Learning about Trademarks customers and identifying new areas for long-term research.
 ---
 
