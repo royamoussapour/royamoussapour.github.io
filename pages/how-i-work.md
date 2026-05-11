@@ -11,7 +11,6 @@ weight: 3
   </p>
 </div>
 
-
 #### Strategic partnership
 Research is only as good as its integration and impact on product development. 
 
