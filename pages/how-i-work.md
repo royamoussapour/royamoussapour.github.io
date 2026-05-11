@@ -16,7 +16,7 @@ weight: 3
 Research is only as good as its integration and impact on product development. 
 
 <ul>
-  <li><b>Embedded:</b> I’ve worked as the sole researcher within a product and design team, influencing long-term roadmaps through generative and evaluative research</li>
+  <li><strong>Embedded:</strong> I’ve worked as the sole researcher within a product and design team, influencing long-term roadmaps through generative and evaluative research</li>
   <li><b>Consulting:</b> I’ve provided specialized research across diverse areas for teams needing targeted research</li>
 </ul> 
 
