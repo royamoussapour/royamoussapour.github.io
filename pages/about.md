@@ -10,7 +10,7 @@ weight: 2
 Hi! I'm **Roya Moussapour**.
 
 <div style="text-align: center; margin: 24px 0;">
-  <img src="/assets/images/headshot.JPG" alt="Roya Moussapour" style="width: 220px; height: 220px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;" />
+  <img src="https://i.imgur.com/XZ7WI2Z.jpeg" alt="Roya Moussapour" style="width: 220px; height: 220px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;" />
 </div>
 
 I’m an experienced UX researcher and strategist currently working at [Capital One](https://www.capitalone.com/) as a Lead UX Researcher in Developer Experience. My current work focuses on navigating complex technical systems to build intuitive workflows and products for software engineers.
