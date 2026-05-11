@@ -5,14 +5,9 @@ permalink: /how-i-work/
 weight: 3
 ---
 
-# About Me
+# How I Work
 
-<div style="text-align: center; padding: 80px 20px;">
-  <img src="https://i.imgur.com/XZ7WI2Z.jpeg" alt="Roya Moussapour" style="width: 220px; height: 220px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto 32px;" />
-  <p style="max-width: 760px; margin: 0 auto; font-size: 1.15rem; line-height: 1.9; color: #1f1f1f;">
-  </p>
-</div>
-
+<
 #### Strategic partnership
 Research is only as good as its integration and impact on product development. 
 
