@@ -1,43 +1,36 @@
 ---
-name: Mapping out the trademark filing journey
-tools: [In-depth interviews, Surveys, Journey mapping, Research artifacts]
+name: Evaluating enterprise readiness of orchestration software
+tools: [In-depth interviews]
 image: https://i.imgur.com/Qu0CB4W.png
 #description: Learning about Trademarks customers and identifying new areas for long-term research.
 ---
 
-# Trademarks customer journey mapping
 
-Trademarks engaged a consultancy to build out a customer journey map 10 years ago. Between then and now, we've built out an internal customer experience team, and we wanted to refresh the original map with new insights.
-
-### The challenge
-
-Trademarks employees work in silos, don't often know what other teams are working on, and have differing perspectives on customer needs.
-
-<i>Who are our customers and how do they reach the USPTO?</i>
+<!-- NEED TO ADD PHOTOS FOR THIS-->
 
 
-<i>How might we better support our customers through their trademark filing processes?</i>
+#### Goal
+Capital One has evaluated multiple orchestration tools as potential replacements for legacy software. With a June 2026 deadline for a go/no-go decision on Tool X, Product and Tech needed to evaluate the readiness of Tool X to support Capital One at the enterprise level from the platform engineer perspective.
 
-### What we did 
+#### Process
+I conducted in-depth 1-hour interviews with platform engineers across infrastructure, orchestration, and mobile teams to surface engineer pain points with Tool X and enterprise risk.
 
-We interviewed 14 internal stakeholders and 10 external customers as our first round of research, synthesizing our research together along a rough timeline of the filing process.
+<!-- ![preview](https://i.imgur.com/NfEgqxg.png)
+-->
 
+#### Impact
+Based on my research, leadership decided to postpone a June 2026 deadline, shifting strategy to re-evaluate Tool X against competitor platforms and preventing a premature deployment that would have destabilized internal infrastructure.
 
-![preview](https://i.imgur.com/TpTWLPd.png)
+#### Key Insights
+<ul>
+  <li>The “Bring Your Own Cloud” architecture model shifted maintenance back to internal teams, negating the expected ROI of a SaaS orchestration solution </li>
+  <li>There were significant security and feature gaps between Capital One’s legacy system and Tool X
+Engineers had significant concerns about the maturity of Tool X and their ability to support Capital One at the enterprise level /li>
+</ul>
 
-We then developed a high-level experience map that identified pain points along the Trademark filing journey (this is intentionally blurred for privacy).
+#### Deliverables
+Delivered a rapid written report and associated deck, including a platform engineer pilot evaluation of Tool X to senior leadership (VP+ level). 
 
-
-![preview](https://i.imgur.com/Qu0CB4W.png)
-
-
-### What we learned
-
-We learned that scams and fraud are rampant and Trademarks customers are being impacted at levels far beyond what occured in 2015. 
-
-This has helped us prioritize research for FY25 focusing on the prevalence of scams and fraud as we consider how to better communicate about the issue proactively with customers. 
-
-![preview](https://i.imgur.com/wuXM88I.png)
 
 <br>
 
@@ -45,4 +38,6 @@ This has helped us prioritize research for FY25 focusing on the prevalence of sc
 
 
 <p style="font-size: 12px;"><b>Note:</b> Very little of my work can be shared publicly, so please <a href="mailto:roya.moussapour@gmail.com">email me directly</a> if you'd like examples of research artifacts (such as scripts, slides, etc.).</p>
+
+
 
