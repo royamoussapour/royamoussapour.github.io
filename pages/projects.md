@@ -8,7 +8,7 @@ remote_projects:
   - arduino-visitor-counter
 ---
 
-<h2> Projects</h2> 
+# Projects 
 
 See below for a selection of projects I've led over the last few years.
 
