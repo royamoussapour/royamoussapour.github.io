@@ -22,7 +22,7 @@ I previously worked at the [U.S. Patent and Trademark Office](https://www.uspto.
 I received most of my research training at MIT during my master’s degree while working at the [MIT Teaching Systems Lab](https://tsl.mit.edu/) as a researcher.
 
 <!-- TODO: update this resume link to the current UK resume before publishing -->
-If you’d like a copy of my current UK resume, you can access it [here](https://drive.google.com/file/d/1LpGF34IXOKOSx46y27DMLdmBtDZ3pnOD/view?usp=sharing).
+If you’d like a copy of my current UK resume, you can access it [here](https://drive.google.com/file/d/1kFYYgI1YaeOl6DFdPaLbuyJ3QpzyCsuM/view?usp=sharing).
 
 
 <!--
