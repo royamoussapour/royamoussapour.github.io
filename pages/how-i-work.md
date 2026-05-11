@@ -2,7 +2,7 @@
 layout: page
 title: How I Work
 permalink: /how-i-work/
-weight: 3
+weight: 2
 ---
 
 # How I Work

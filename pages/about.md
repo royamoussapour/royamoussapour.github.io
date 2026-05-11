@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
-weight: 2
+weight: 1
 ---
 
 # About Me
