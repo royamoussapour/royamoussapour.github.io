@@ -7,7 +7,6 @@ weight: 3
 
 # How I Work
 
-<
 #### Strategic partnership
 Research is only as good as its integration and impact on product development. 
 
